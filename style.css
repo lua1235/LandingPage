@@ -1,7 +1,9 @@
 body {
   margin: 20px;
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/06-10-06smile.jpg/1200px-06-10-06smile.jpg); 
+  text-align: center;
+  background-image: url("Goats.jpg"); 
   background-attachment: fixed;
   background-size: cover;
+  padding-top: 200px;
 }
-          
+           
